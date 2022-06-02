@@ -1,6 +1,6 @@
 # ML4PhysGrad Regina 
 
-ALl the information about our works will be summarized in [here](https://github.com/ML4PhysGrad-Regina/Homepage/edit/gh-pages/index.md). 
+ALl the information about our works will be summarized in [here](https://ml4physgrad-regina.github.io/Homepage/). 
 
 ## Projects
 
